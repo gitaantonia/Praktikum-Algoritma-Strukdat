@@ -1,5 +1,5 @@
 Praktikum Algoritma dan Struktur Data
 
-Nama: Gita Antonia Sipayung
-NIM: 124240132
+Nama: Gita Sipayung
+
 Kelas: SI-G
